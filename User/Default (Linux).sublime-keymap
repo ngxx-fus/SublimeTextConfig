@@ -1,0 +1,21 @@
+[
+    // Mở FileBrowser (dired)
+    {
+        "keys": ["alt+shift+f"],
+        "command": "dired",
+        "context":
+        [
+            { "key": "panel_has_focus", "operator": "equal", "operand": false },
+            { "key": "overlay_has_focus", "operator": "equal", "operand": false }
+        ]
+    },
+
+    // Toggle Terminus panel in project root
+    {
+        "keys": ["alt+`"],
+        "command": "toggle_terminus_panel",
+        "args": {
+            "cwd": "${project_path:${folder}}"
+        }
+    }
+]

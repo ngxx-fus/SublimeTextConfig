@@ -1,7 +1,6 @@
 {
     "ignored_packages":
     [
-        "NeoVintageous",
         "Vintage",
     ],
     "font_size": 12,
