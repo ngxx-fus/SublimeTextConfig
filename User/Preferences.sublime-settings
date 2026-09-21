@@ -2,6 +2,7 @@
     "ignored_packages":
     [
         "Vintage",
+        "NeoVintageous"
     ],
     "font_size": 12,
     "sublime_merge_path": "C:\\ngxxfus.workspace\\sublime_merge_build_2132_x64\\sublime_merge.exe",

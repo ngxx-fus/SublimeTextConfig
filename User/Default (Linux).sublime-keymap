@@ -12,7 +12,7 @@
 
     // Toggle Terminus panel in project root
     {
-        "keys": ["alt+`"],
+        "keys": ["alt+shift+t"],
         "command": "toggle_terminus_panel",
         "args": {
             "cwd": "${project_path:${folder}}"
