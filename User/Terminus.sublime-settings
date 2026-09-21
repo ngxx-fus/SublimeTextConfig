@@ -1,0 +1,21 @@
+{
+    "shell_configs": [
+        {
+            "name": "PowerShell Core",
+            "cmd": ["C:\\Users\\phu.nguyen-thanh\\AppData\\Local\\Microsoft\\WindowsApps\\pwsh.exe"],
+            "env": {},
+            "enable": true,
+            "platforms": ["windows"]
+        },
+        {
+            "name": "PowerShell",
+            "cmd": ["powershell.exe"],
+            "env": {},
+            "enable": true,
+            "platforms": ["windows"]
+        }
+    ],
+    "default_config": {
+        "windows": "PowerShell Core"
+    }
+}

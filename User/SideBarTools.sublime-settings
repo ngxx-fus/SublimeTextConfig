@@ -1,0 +1,5 @@
+// SideBarTools Settings - User
+{
+	"difftool": ["C:\\ngxxfus.workspace\\sublime_merge_build_2132_x64\\sublime_merge.exe", "mergetool"],
+	"posix_copy_command": true,
+}

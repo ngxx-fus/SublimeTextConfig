@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"Focus File on Sidebar",
+		"LSP",
+		"LSP-clangd",
+		"NeoVintageous",
+		"Package Control",
+		"SideBarEnhancements",
+		"SideBarTools",
+		"Terminus",
+		"Toggle Sidebar Focus",
+	],
+	"in_process_packages":
+	[
+	],
+}
